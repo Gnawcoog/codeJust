@@ -19,7 +19,7 @@ $\qquad$[CSDN](https://bithachi.blog.csdn.net/article/details/104722679)
 $\qquad$[B站黑马](https://www.bilibili.com/video/BV1et411b73Z/?spm_id_from=333.337.search-card.all.click&vd_source=ce60d763111e153f4b39f38fc7bfd6c0)
 
 - Linux
-$\qquad$[黑马程序员](https://www.bilibili.com/video/BV1n84y1i7td?p=1&vd_source=ce60d763111e153f4b39f38fc7bfd6c0)  
-$\qquad$[吴光科老师](https://www.bilibili.com/cheese/play/ss703?csource=Hp_searchresult&spm_id_from=333.337.0.0) 
-$\qquad$[韩顺平老师](https://www.bilibili.com/video/BV1Sv411r7vd?p=1&vd_source=ce60d763111e153f4b39f38fc7bfd6c0) 
-$\qquad$[尚硅谷老师](https://www.bilibili.com/video/BV1WY4y1H7d3/?spm_id_from=333.337.search-card.all.click&vd_source=ce60d763111e153f4b39f38fc7bfd6c0)
+$\qquad$[B站黑马](https://www.bilibili.com/video/BV1n84y1i7td?p=1&vd_source=ce60d763111e153f4b39f38fc7bfd6c0)  
+$\qquad$[B站吴光科老师](https://www.bilibili.com/cheese/play/ss703?csource=Hp_searchresult&spm_id_from=333.337.0.0) 
+$\qquad$[B站韩顺平老师](https://www.bilibili.com/video/BV1Sv411r7vd?p=1&vd_source=ce60d763111e153f4b39f38fc7bfd6c0) 
+$\qquad$[B站尚硅谷老师](https://www.bilibili.com/video/BV1WY4y1H7d3/?spm_id_from=333.337.search-card.all.click&vd_source=ce60d763111e153f4b39f38fc7bfd6c0)
