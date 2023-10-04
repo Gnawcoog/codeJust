@@ -1,9 +1,5 @@
 #   Linux：在Linux世界，一切皆文件！ 
 
-## 1、思维导图
-![输入图片说明](pictures/_Linux%E5%9F%BA%E7%A1%80_Ruchine.png)  
-
-## 2、知识点摘要
 
 ### 常用基本命令
 
@@ -84,9 +80,3 @@
 #### 【8】函数
 - 系统函数： **basename** 、 **dirname** 
 - 自定义函数
-
-## 3、来源参考
-[1].  [黑马程序员](https://www.bilibili.com/video/BV1n84y1i7td?p=1&vd_source=ce60d763111e153f4b39f38fc7bfd6c0)  
-[2].  [吴光科老师](https://www.bilibili.com/cheese/play/ss703?csource=Hp_searchresult&spm_id_from=333.337.0.0)  
-[3].  [韩顺平老师](https://www.bilibili.com/video/BV1Sv411r7vd?p=1&vd_source=ce60d763111e153f4b39f38fc7bfd6c0)  
-[4].  [尚硅谷老师](https://www.bilibili.com/video/BV1WY4y1H7d3/?spm_id_from=333.337.search-card.all.click&vd_source=ce60d763111e153f4b39f38fc7bfd6c0)
