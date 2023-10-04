@@ -4,7 +4,7 @@
 
 
 ***
-# 入门篇 ——[黑马:fa-youtube-play:](https://www.bilibili.com/video/BV1et411b73Z/?spm_id_from=333.337.search-card.all.click&vd_source=ce60d763111e153f4b39f38fc7bfd6c0)
+# 入门篇 ——[黑马](https://www.bilibili.com/video/BV1et411b73Z/?spm_id_from=333.337.search-card.all.click&vd_source=ce60d763111e153f4b39f38fc7bfd6c0)
 ***
 
 
